@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="title">Registration Form</string>
+    <string name="message">Welcome to Adventure Learning Club!</string>
+    <string name="FName">First Name</string>
+    <string name="LName">Last Name</string>
+    <string name="Gender">Gender</string>
+    <string name="StudID">Student ID</string>
+    <string name="School">School</string>
+    <string name="email">E-Mail</string>
+    <string name="phone">Phone</string>
+    <string name="regButton">Register</string>
+</resources>
